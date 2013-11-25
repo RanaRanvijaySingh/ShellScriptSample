@@ -1,0 +1,11 @@
+#!/bin/bash
+# My First Script
+declare -a filename=(hello how are you brother)
+for i in ${filename[@]}
+do
+	value=`cat $i`
+	
+	sqlite3 usaf_rules_demo "update demo set title=\"$value\" where name=\"$i\";"
+	echo "$value"
+	echo "$i"
+done

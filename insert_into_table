@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "type you."
+read Name
+sqlite3 usaf_rules_demo "insert into demo (name) values (\"$Name\");"
