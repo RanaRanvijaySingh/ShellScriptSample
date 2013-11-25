@@ -22,6 +22,4 @@ In order to run the shell script , in the terminal
 			echo "$value"
 		done
 
-This script reads two different files `hello.txt` `hello.doc` and prints the content of the file one by one. 
-We have saved the file names in the array `filename` .
-The command `value=cat $i` reads the content of the file.
+This script reads two different files and prints the content of the file one by one.
