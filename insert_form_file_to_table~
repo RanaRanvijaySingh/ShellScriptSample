@@ -1,9 +1,0 @@
-#!/bin/bash
-# My First Script
-declare -a filename=(hello.txt hello.doc)
-for i in ${filename[@]}
-do
-	value=`cat $i`
-	sqlite3 usaf_rules_demo "insert into demo (name) values (\"$value\");"
-	echo "$value"
-done

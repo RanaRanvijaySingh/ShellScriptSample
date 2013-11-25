@@ -1,8 +1,0 @@
-#!/bin/bash
-# My First Script
-declare -a filename=(hello.txt hello.doc)
-for i in ${filename[@]}
-do
-	value=`cat $i`
-	echo "$value"
-done
