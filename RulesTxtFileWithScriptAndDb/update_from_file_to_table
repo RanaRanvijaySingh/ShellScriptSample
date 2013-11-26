@@ -291,9 +291,10 @@ unsportsmanlikeconduct.html
 )
 for (( i=0; i<142; i++))
 do
+	sed -i 's/"/ /g' ${filenametxt[$i]}
 	txtfile=${filenametxt[$i]}
 	htmlfile=${filenamehtml[$i]}
 	value=`cat $txtfile`
-	sqlite3 usaf_rules_demo "update rules set content=\"$value\" where path=\"$htmlfile\";"
+	sqlite3 usaf_rules "update rules set content=\"$value\" where path=\"$htmlfile\";"
 	echo "$htmlfile"
 done

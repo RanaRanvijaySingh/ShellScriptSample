@@ -23,7 +23,7 @@ Following a valid or invalid fair-catch signal given by any member of the receiv
 When any score occurs.
 During a try if B secures possession or as soon as it is apparent that a kick has failed to score.
 When the helmet comes completely off a player who is in possession of the ball.
-When a runner simulates taking a knee or simulates "spiking" a forward pass.
+When a runner simulates taking a knee or simulates  spiking  a forward pass.
 When an official sounds his whistle inadvertently. Inadvertent whistles are administered as follows:
 The down shall be replayed if, during a down or during a down in which the penalty for a foul is declined, an inadvertent whistle is sounded while a legal forward pass or snap is in flight or during a legal kick.
 The team last in possession may choose to either put the ball in play where possession was lost or replay the down if, during a down or during a down in which the penalty for a foul is declined, an inadvertent whistle is sounded while the ball is loose following a backward pass, fumble, illegal forward pass or illegal kick.

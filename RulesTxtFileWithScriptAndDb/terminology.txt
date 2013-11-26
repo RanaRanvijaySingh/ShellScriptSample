@@ -6,7 +6,7 @@
 	Defense- the squad opposing the offense to prevent them from advancing the ball.
 	Passer- the offensive player that throws the ball and may or may not be the quarterback.
 	Rusher- the defensive player assigned to rush the quarterback to prevent him/her from passing the ball by pulling his/her flags or by blocking the pass.
-	Downs (1-2-3)- the offensive squad has three attempts or "downs" to advance the ball. They must cross the line to gain to get another set of downs or to score.
+	Downs (1-2-3)- the offensive squad has three attempts or  downs  to advance the ball. They must cross the line to gain to get another set of downs or to score.
 	Live Ball- refers to the period of time that the play is in action. Generally used in regard to penalties, live ball penalties are considered part of the play and must be enforced before the down is considered complete.
 	Dead Ball- refers to the period of time immediately before or after a play.
 	Whistle- sound made by an official using a whistle that signifies the end of the play or a stop in the action for a timeout, half time, or the end of the game.

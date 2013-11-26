@@ -6,7 +6,7 @@ PENALTY
 Illegal Forward Passes
 Yards assessed from the previous spot
 Intentional Grounding 
-Intentional grounding is a pass intentionally thrown incomplete to save loss of yardage or to conserve time. Some factors to look for in making an intentional-grounding decision are absence of eligible offensive receivers in the area and the "dumpingâ to avoid loss of distance. The ability and skill of the passer and the pressure of the defense are also factors to consider.
+Intentional grounding is a pass intentionally thrown incomplete to save loss of yardage or to conserve time. Some factors to look for in making an intentional-grounding decision are absence of eligible offensive receivers in the area and the  dumpingâ to avoid loss of distance. The ability and skill of the passer and the pressure of the defense are also factors to consider.
 Penalty
 
 
@@ -29,7 +29,7 @@ Quarterback A1 runs wide and while near the neutral zone, decides to throw a for
 AR 5.4.C 
 Quarterback A1 drops back to pass but is unable to find a receiver and (a) throws the ball to the ground, (b) throws the ball to the ground in an area occupied by only defensive players or (c) deliberately throws the ball at the legs of onrushing defensive linemen. RULING: An illegal forward pass in (a), (b) and (c). Penalize A 5 yards from the previous spot.
 AR 5.4.D 
-Quarterback A1, in position for a direct hand-to-hand snap, muffs the snap but is able to take the ball from the ground and spike it forward. RULING: An illegal forward pass. In order to be a "direct snapâ and therefore meet the allowance within the exception, the ball must go immediately from the snapper to the person in position to take the hand-to-hand snap without being muffed, fumbled or otherwise mishandled. 
+Quarterback A1, in position for a direct hand-to-hand snap, muffs the snap but is able to take the ball from the ground and spike it forward. RULING: An illegal forward pass. In order to be a  direct snapâ and therefore meet the allowance within the exception, the ball must go immediately from the snapper to the person in position to take the hand-to-hand snap without being muffed, fumbled or otherwise mishandled. 
 AR 5.4.E 
 Runner A1 advances 5 yards beyond the neutral zone to B's 3-yard line, where he is tackled. As he is going down, A1 simulates a fumble by tossing the ball forward into the end zone, where A2 downs it. RULING: Illegal forward pass by A1. The penalty is 5 yards from the spot of the pass. If A1 is contacted after releasing the ball, it is not roughing the passer since he lost that protection when he threw the pass from beyond the neutral zone.
 AR 5.4.F 

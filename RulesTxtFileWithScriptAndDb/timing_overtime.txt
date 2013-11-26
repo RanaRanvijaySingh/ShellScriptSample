@@ -1,8 +1,8 @@
-<link href="style.css" rel="stylesheet" media="screen" type="text/css" />
+<link href= style.css  rel= stylesheet  media= screen  type= text/css  />
 <!--content start here-->
-<div id="content">
+<div id= content >
 	<h1>Timing and Overtime</h1>
-    <ol class="gameContent timing_overtime">
+    <ol class= gameContent timing_overtime >
     	<li>
         	Games are played on a 40 minute continuous clock with two twenty minute halves. The clock stops only for timeouts.
         </li>
