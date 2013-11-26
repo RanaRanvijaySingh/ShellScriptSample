@@ -1,0 +1,7 @@
+If time for any period expires during a down (clock indicates 0:00), play shall continue until the down ends, even though a mechanical signal is allowed to sound.
+Dead-Ball Foul After Time Expires 
+If a dead-ball foul occurs after time expires for any period, the penalty shall be measured from the succeeding spot to start the next period.
+Referee Signal 
+At the end of each period, the referee shall hold the ball in one hand overhead to indicate the period has officially ended. The referee should delay momentarily to ensure that no foul, obvious timing error or other irregularity has occurred or there is no request for a coach-referee conference to determine if a rule has been misapplied.
+
+

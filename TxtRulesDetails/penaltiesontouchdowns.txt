@@ -1,0 +1,12 @@
+The score is nullified if the penalty is accepted for a foul, other than nonplayer or unsportsmanlike, by A that occurs during a down resulting in a touchdown.
+No change of possession during Touchdown-Scoring Play 
+If during a touchdown-scoring play in which there is no change of possession, the opponent of the scoring team commits a foul other than nonplayer or unsportsmanlike, the scoring team may accept the results of the play and have a penalty enforced from the succeeding spot or may choose to have the foul enforced on the subsequent kickoff. Those penalties may not carry over from regulation to overtime or from one overtime period to another.
+Change of Possession During Touchdown-Scoring Play 
+If during a touchdown-scoring play in which there is a change of possession, the opponent of the scoring team commit a foul other than nonplayer or unsportsmanlike after the change of possession, the scoring team may accept the results of the play and have the penalty enforced from the succeeding spot or may choose to have the foul enforced on the subsequent kickoff. Those penalties may not carry over from regulation to overtime or from one overtime period to another.
+APPROVED RULINGS
+AR 9.14.A 
+Second-and-20 for A on B's 40-yard line. A1 runs for a touchdown. A2 is flagged for illegal motion and during the play B is flagged for (a) illegal substitution or (b) a facemask foul. RULING: In both cases, the touchdown is canceled, the fouls offset and the down is replayed.
+AR 9.14.B 
+Second-and-10 for A on B's 20-yard line. A1 runs for a touchdown. A2 is flagged for clipping and during the play B is flagged for (a) illegal substitution or (b) a facemask foul. RULING: In both cases, the touchdown is canceled. In (a) and (b), the fouls cancel and the down is replayed.
+
+

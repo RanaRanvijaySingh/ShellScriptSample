@@ -1,0 +1,7 @@
+The penalty for a live-ball foul by either team that occurs beyond the end of the run when the play ends beyond the line will be enforced from the end of the run.
+Live-Ball Foul Beyond the Line 
+The penalty for a live-ball foul by either team that occurs beyond the line when the play ends behind the line will be enforced from the previous spot.
+Dead-Ball Foul Beyond the End of the Run 
+The penalty for a dead-ball foul by either team that occurs beyond the end of the run is enforced from the end of the run.
+
+

@@ -1,0 +1,13 @@
+A backward pass is a pass thrown with its initial direction parallel with or toward the runner's end line. A backward pass ends when it is caught or recovered or is out of bounds.
+
+During Any Down
+During any down, any player in possession may make a backward pass. If a backward pass is caught or recovered by any player, he may advance.
+
+Out of Bounds Between Goal Lines
+If a backward pass goes out of bounds between the goal lines or becomes dead inbounds while no player is in possession or while opponents are in joint possession, the ball belongs to the passing team unless, after fourth down, A is short of the line to gain.
+
+Out of Bounds Behind Goal Line
+If a backward pass is out of bounds behind a goal line, the ball belongs to the team defending that goal and the result is either a touchback or a safety.
+
+Snap
+A snap is a backward pass. A snap is the legal act of passing or handing the ball backward from its position on the ground. The snap begins when the snapper first moves the ball legally other than in adjustment. In a snap, the movement must be a quick and continuous backward motion of the ball during that the ball immediately leaves the hand(s) of the snapper and touches a back or the ground before it touches an A lineman. The snap ends when the ball touches the ground or any player.

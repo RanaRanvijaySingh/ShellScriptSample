@@ -1,0 +1,5 @@
+	Home teams wear dark color jerseys; visiting teams wear light color jerseys.
+	Teams must consist of at least five players, with a maximum of ten players. 
+	Teams must start a game with a minimum of five players. In the event of an injury, a team with insufficient substitute players may play with four players on the field, but no fewer than four.
+
+

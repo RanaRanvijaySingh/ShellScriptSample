@@ -1,0 +1,9 @@
+A forward pass is a pass thrown with its initial direction toward the opponent's end line. Prior to releasing the ball on a pass, if the potential passer is contacted and the ball is released, it is a forward pass if his arm was moving forward on contact.
+Beyond Neutral Zone 
+A forward pass has gone beyond the neutral zone if at any time during the pass, the entire ball is beyond the neutral zone.
+Pass Ends 
+A forward pass ends when it is caught, touches the ground or is out of bounds.
+Ball Becomes Dead 
+The ball becomes dead when any forward pass (legal or illegal) is incomplete or is simultaneously caught by opposing players.
+
+

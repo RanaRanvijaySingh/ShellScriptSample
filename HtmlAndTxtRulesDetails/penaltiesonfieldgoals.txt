@@ -1,0 +1,5 @@
+The score is nullified if the penalty is accepted for a foul, other than nonplayer or unsportsmanlike, by A that occurs during a down resulting in a successful field goal.
+Foul by Opponent 
+If during a successful field goal, a foul by R occurs, K is given the choice of accepting the penalty and replaying the down following enforcement or accepting the result of the play and enforcement of the penalty from the succeeding spot.
+
+

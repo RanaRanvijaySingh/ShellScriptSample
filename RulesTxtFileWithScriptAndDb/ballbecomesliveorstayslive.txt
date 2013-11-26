@@ -1,0 +1,5 @@
+A ball becomes live when the ball has been legally free kicked and when a free-kick down is in progress. After being put in play, the ball remains live until the down ends. No foul causes a live ball to become dead. 
+Ball Remains Live 
+The ball remains live if, at the snap, a place kick holder with his knee(s) on the ground and with a teammate in kicking position catches or recovers the snap while his knee(s) is on the ground and places the ball for a kick or if he rises to advance, hand, kick or pass; or rises and catches or recovers an errant snap and immediately returns his knee(s) to the ground and places the ball for a kick or again rises to advance, hand, kick or pass.
+
+

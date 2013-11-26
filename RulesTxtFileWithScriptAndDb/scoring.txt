@@ -1,0 +1,9 @@
+	Touchdown: 6 points
+	PAT (Point After Touchdown) 1 point (5-yard line) or 2 points (12-yard line) Note: 1 point PAT is pass only, 2 point PAT can be run or pass. 
+	A team that scores a touchdown must declare whether it wishes to attempt a 1-pt. conversion (from the 5-yard line) or a 2-pt. conversion (from the 12-yard line). Any change, once a decision is made to try for the extra point, requires a charged time out. Decision cannot be changed after a penalty. Interceptions on conversions cannot be returned. 
+	Safety: 2 points 
+	A Safety occurs when the ball carrier is declared down in his/her own end zone. They can be called down when their flags are pulled by a defensive player, their flag falls out, they step out of bounds or they hit the ground with their knee or arm. A Safety also occurs when there is an offensive penalty in the end zone.
+	Mercy Rule: After one team is winning by twenty eight points or more, the losing team gets one offensive series to continue regulation play. If they do not score, the game goes into scrimmage mode playing up to the fifteen minute mark in the second half if time allows. After the fifteen minute mark, the game is over.
+	Scrimmage Mode: The losing team gets the ball for up to three possessions. Each possession lasts until the team scores or fails to achieve the Line-To-Gain. Points do not count in final score. After three possessions the game is over.
+
+

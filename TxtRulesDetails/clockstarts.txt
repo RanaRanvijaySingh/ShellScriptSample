@@ -1,0 +1,4 @@
+If a period begins with a free kick, the game clock starts when the kick is touched, other than first touching by K.
+
+Period Begins With a Snap
+If a period begins with a snap, the game clock starts when the ball is legally snapped.

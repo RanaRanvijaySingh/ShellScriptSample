@@ -1,0 +1,5 @@
+The penalty for a live-ball foul by A that occurs behind the end of the run when the play ends beyond the line will be enforced from the spot of foul.
+Live-Ball Foul by the Defense 
+The penalty for a live-ball foul by B that occurs behind the end of the run when the play ends beyond the line and beyond the foul will be enforced from the end of the run.
+
+
