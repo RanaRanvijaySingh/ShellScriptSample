@@ -295,6 +295,6 @@ do
 	txtfile=${filenametxt[$i]}
 	htmlfile=${filenamehtml[$i]}
 	value=`cat $txtfile`
-	sqlite3 usaf_rules "update rules set content=\"$value\" where path=\"$htmlfile\";"
+	sqlite3 usaf_rules "update rules set content=\".\" where path=\"$htmlfile\";"
 	echo "$htmlfile"
 done
