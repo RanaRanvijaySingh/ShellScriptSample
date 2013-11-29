@@ -3,8 +3,7 @@ for htmlfile in *.html; do
         scratchbase='/tmp/temp'
         cp $htmlfile $scratchbase.txt
         echo "Processing file $htmlfile"
-       sed '/<script/,/<\/script>/d' $scratchbase.txt | sed -e :a -e 's/<[^>]*>//g;/</N;//ba' | sed -e 's/"/ /g' > $scratchbase.2.txt
-
+    	sed '/<script/,/<\/script>/d' $scratchbase.txt > $scratchbase.2.txt | sed -e :a -e 's/<[^>]*>//g;/</N;//ba' $scratchbase.txt > $scratchbase.2.txt
         value=`cat $scratchbase.2.txt`
         #sqlite3 usaf_rules "update rules set content=\"$value\" where path=\"$htmlfile\";"
         rm $scratchbase.*
